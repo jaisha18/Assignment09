@@ -1,0 +1,50 @@
+.header {
+    background-color:yellow !important;
+}
+.header2{
+    text-align: left;
+}
+
+.jumbotron{
+background-color:yellow
+
+}
+.footer_content{
+    color:black;
+    background-color: yellow !important;
+    
+}
+.categories{
+    display: flex;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    background-color: yellow;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 50px;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+.products{
+    display: flex;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    background-color: yellow;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 50px;
+    border-radius: 10px;
+    justify-content: center;
+
+}
+.card-img-top{
+    flex: 0 0 auto;
+    width: 253px;
+    background-color:rgb(244, 255, 185);
+    border: 7px solid white;
+    height: 280px;
+  }
+  
